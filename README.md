@@ -1,6 +1,9 @@
 # reading
 
-*   [ ] 趋势跟踪策略小册子
+*   [x] 趋势跟踪策略小册子
+*   [x] 《趋势跟踪》(Trend Following) by Michael Covel
+*   [x] 《海龟交易法则》(The Complete TurtleTrader) by Michael Covel
+*   [ ] 《金融怪杰》系列 (Market Wizards Series) by Jack Schwager
 *   [ ] 《secrets-of-self-made-millionaires-by-adam-khoo》 adam-khoo
 *   [ ] 《曾国藩的正面与反面》 张宏杰
 *   [ ] 《战后日本经济史》 野口悠纪雄
@@ -169,11 +172,25 @@
 *   [ ] 《笑傲牛熊》史丹·温斯坦
 *   [ ] 《稻盛和夫的哲学》原心法
 *   [ ] 《朱光潜谈读书》朱光潜
-*   [ ] 《趋势跟踪》(Trend Following) by Michael Covel
-*   [ ] 《海龟交易法则》(The Complete TurtleTrader) by Michael Covel
 *   [ ] 《海龟交易法则：风险，回报和幸存》(Way of the Turtle) by Curtis Faith
-*   [ ] 《金融怪杰》系列 (Market Wizards Series) by Jack Schwager
 *   [ ] 《股票作手回忆录》(Reminiscences of a Stock Operator) by Edwin Lefèvre
 *   [ ] 《我如何在股市赚了200万》(How I Made $2,000,000 in the Stock Market) by Nicolas Darvas
 *   [ ] 《技术分析》(Technical Analysis of the Financial Markets) by John J. Murphy
 *   [ ] 《巴菲特致股东的信》
+*   [ ] 简明交易手册
+
+
+
+
+
+
+
+## 重要通知
+
+1. 后续死磕web3技术文章系列皆为我近期关注或操作项目 
+2. 后续所分析的项目对我而言**无任何投资价值，只有交易价值**
+3. 不看好现在绝大部分项目
+4. 个人只玩趋势
+5. 不构成任何投资建议，纯技术分享
+6. 欢迎交流技术、交易
+7. 交易相关 见推
